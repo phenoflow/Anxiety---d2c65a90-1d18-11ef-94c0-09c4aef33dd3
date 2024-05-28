@@ -1,0 +1,81 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/posttraumatic-anxiety---primary.py
+inputModule3:
+  class: File
+  path: python/anxiety-acrophobia---primary.py
+inputModule4:
+  class: File
+  path: python/anxiety-attacks---primary.py
+inputModule5:
+  class: File
+  path: python/anxiety-counselling---primary.py
+inputModule6:
+  class: File
+  path: python/obsessional-anxiety---primary.py
+inputModule7:
+  class: File
+  path: python/anxiety---primary.py
+inputModule8:
+  class: File
+  path: python/compulsive-anxiety---primary.py
+inputModule9:
+  class: File
+  path: python/anxiety-claustrophobia---primary.py
+inputModule10:
+  class: File
+  path: python/anxiety-neurosis---primary.py
+inputModule11:
+  class: File
+  path: python/phobic-anxiety---primary.py
+inputModule12:
+  class: File
+  path: python/anxiety-unspecified---primary.py
+inputModule13:
+  class: File
+  path: python/anxiety-agoraphobia---primary.py
+inputModule14:
+  class: File
+  path: python/anxiety-management---primary.py
+inputModule15:
+  class: File
+  path: python/other-anxiety---primary.py
+inputModule16:
+  class: File
+  path: python/social-anxiety---primary.py
+inputModule17:
+  class: File
+  path: python/anxiety-state---primary.py
+inputModule18:
+  class: File
+  path: python/anxiety-phobia---primary.py
+inputModule19:
+  class: File
+  path: python/panic-anxiety---primary.py
+inputModule20:
+  class: File
+  path: python/anxiety-chron---primary.py
+inputModule21:
+  class: File
+  path: python/anxiety-depression---primary.py
+inputModule22:
+  class: File
+  path: python/anxiety-selfhelp---primary.py
+inputModule23:
+  class: File
+  path: python/mixed-anxiety---primary.py
+inputModule24:
+  class: File
+  path: python/anxiety-childhood---primary.py
+inputModule25:
+  class: File
+  path: python/anxiety-thought---primary.py
+inputModule26:
+  class: File
+  path: python/output-cases.py
